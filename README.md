@@ -1,4 +1,4 @@
-# Construção de uma aplicação para consumir a API do Github.
+# Construção de uma aplicação para consumir a API do Github. React Native
 
 Usado lib do React Native
 
