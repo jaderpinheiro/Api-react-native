@@ -18,6 +18,6 @@ Para debug foi usado Reactotron e seus plugins.
 
 Visualize o app.
 
- [github]: https://github.com/jaderpinheiro/Api-react-native/blob/master/api.png"Api usando React Native"
+ [github]: https://github.com/jaderpinheiro/Api-react-native/blob/master/api.png  "Api usando React Native"
 
 :-)
